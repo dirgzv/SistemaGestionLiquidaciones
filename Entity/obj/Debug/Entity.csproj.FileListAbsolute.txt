@@ -1,0 +1,12 @@
+C:\Users\natyc\OneDrive\Escritorio\repositorios\Entity\bin\Debug\Entity.dll
+C:\Users\natyc\OneDrive\Escritorio\repositorios\Entity\bin\Debug\Entity.pdb
+C:\Users\natyc\OneDrive\Escritorio\repositorios\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\natyc\OneDrive\Escritorio\repositorios\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\natyc\OneDrive\Escritorio\repositorios\Entity\obj\Debug\Entity.dll
+C:\Users\natyc\OneDrive\Escritorio\repositorios\Entity\obj\Debug\Entity.pdb
+C:\Users\santiago\Downloads\repositorios\repositorios\Entity\bin\Debug\Entity.dll
+C:\Users\santiago\Downloads\repositorios\repositorios\Entity\bin\Debug\Entity.pdb
+C:\Users\santiago\Downloads\repositorios\repositorios\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\santiago\Downloads\repositorios\repositorios\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\santiago\Downloads\repositorios\repositorios\Entity\obj\Debug\Entity.dll
+C:\Users\santiago\Downloads\repositorios\repositorios\Entity\obj\Debug\Entity.pdb
